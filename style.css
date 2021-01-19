@@ -1,0 +1,24 @@
+canvas{
+   /* position: fixed; */
+   padding-left: 25%;
+}  
+
+button {
+    position: relative;
+    left: 367px;
+    top: -45em;
+    width: 80px;
+    height: 40px;
+    cursor: pointer;
+    border-radius: 10%;
+}
+/* #button{
+
+} */
+
+h1 {
+    position: absolute;
+    left: 628px;
+    top: 5px;
+    color: white;
+}
